@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+env/
+ENV/ 
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python
+
+#IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+#Operating system files
+.DS_Store
+Thumbs.db
+
+#project-specific
+.env
+config.local
+*.log
+
+
